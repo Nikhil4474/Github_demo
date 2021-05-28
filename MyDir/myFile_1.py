@@ -5,6 +5,3 @@ def myFunctionOne ():
 
 myFunctionOne()
 myFunctionTwo()
-
-#######
-#################
